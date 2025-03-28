@@ -4,3 +4,4 @@ Change done from feature branch.
 
 conflicting change from main.
 
+conflict branch2
